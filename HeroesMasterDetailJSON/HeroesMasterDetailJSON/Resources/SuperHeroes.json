@@ -1,0 +1,177 @@
+[
+	{
+		"id": "f0c6b58f-4d8a-4b8c-8d2a-12b4834e0a98",
+		"nombreReal": "Juan Martínez",
+		"apodo": "TeleMente",
+		"descripcion": "Después de un accidente en un laboratorio de neurociencia, Juan adquirió la capacidad de leer y manipular pensamientos.",
+		"edad": 32,
+		"poderes": [
+			"Telepatía"
+		],
+		"imagen": "telemente"
+	},
+	{
+		"id": "a07c5e7b-a2b3-4a0e-9e2c-29f2d7b4d078",
+		"nombreReal": "Laura Blanco",
+		"apodo": "Ala de Águila",
+		"descripcion": "Laura siempre soñó con volar. Un encuentro con un águila mística le otorgó el don del vuelo.",
+		"edad": 28,
+		"poderes": [
+			"Vuelo"
+		],
+		"imagen": "alaDeAguila"
+	},
+	{
+		"id": "b627f3c3-3f8a-41a1-9c81-2f4255b5f1fc",
+		"nombreReal": "Miguel Torres",
+		"apodo": "Roca",
+		"descripcion": "Miguel puede levantar objetos de toneladas sin esfuerzo gracias a una maldición de un dios olvidado.",
+		"edad": 35,
+		"poderes": [
+			"Super Fuerza"
+		],
+		"imagen": "roca"
+	},
+	{
+		"id": "d75f3c93-2d5a-4a1e-8f1c-3e5d6c1e0b79",
+		"nombreReal": "Elena García",
+		"apodo": "Sombra",
+		"descripcion": "Elena descubrió su habilidad para volverse invisible después de un misterioso encuentro en un bosque encantado. Ahora, utiliza su poder para operar en secreto y proteger a los inocentes.",
+		"edad": 29,
+		"poderes": [
+			"Invisibilidad",
+			"Teletransportación"
+		],
+		"imagen": "sombra"
+	},
+	{
+		"id": "e62d4c7b-9c5a-4d3e-8a3c-2f9d5e5d1a86",
+		"nombreReal": "Daniel Ortiz",
+		"apodo": "Cronos",
+		"descripcion": "Daniel puede alterar y viajar en el tiempo después de encontrar un antiguo reloj en una excavación arqueológica. Con este poder, busca corregir errores del pasado y asegurar un futuro mejor.",
+		"edad": 34,
+		"poderes": [
+			"Manipulación del Tiempo"
+		],
+		"imagen": "cronos"
+	},
+	{
+		"id": "f23d5e7a-2b4c-4a9d-9e3d-2d5e6f7e0f89",
+		"nombreReal": "Isabel Ruiz",
+		"apodo": "Elementa",
+		"descripcion": "Isabel puede controlar y manipular los elementos naturales. Un ritual ancestral le otorgó el don de dominar fuego, agua, tierra y aire a su antojo.",
+		"edad": 27,
+		"poderes": [
+			"Control Elemental",
+			"Telepatía"
+		],
+		"imagen": "elementa"
+	},
+	{
+		"id": "c5e2f897-8e2b-4716-b299-8b3781b2005e",
+		"nombreReal": "Luis Fernández",
+		"apodo": "Reflejo",
+		"descripcion": "Luis puede crear duplicados exactos de sí mismo que actúan de forma independiente. Estos duplicados son temporales y desaparecen después de un tiempo. Utiliza este poder para estar en múltiples lugares a la vez, ayudando a quien lo necesita.",
+		"edad": 28,
+		"poderes": [
+			"Duplicación"
+		],
+		"imagen": "reflejo"
+	},
+	{
+		"id": "8f2cdb8b-11c2-48c3-a728-3453c4e11baf",
+		"nombreReal": "Carmen Morales",
+		"apodo": "Eco",
+		"descripcion": "Carmen puede imitar y amplificar cualquier sonido que haya escuchado, utilizando estas habilidades para comunicarse, desorientar a sus enemigos o incluso como una forma de sonar.",
+		"edad": 26,
+		"poderes": [
+			"Imitación de Sonido",
+			"Amplificación del Sonido"
+		],
+		"imagen": "eco"
+	},
+	{
+		"id": "8c0c1c2a-d74f-4e7d-b72a-2305f63f9c43",
+		"nombreReal": "Miguel Álvarez",
+		"apodo": "Pulso",
+		"descripcion": "Miguel puede generar y controlar vibraciones a su antojo. Ya sea para causar terremotos, crear barreras de ondas de choque o incluso volar al vibrar a altas velocidades.",
+		"edad": 30,
+		"poderes": [
+			"Generación de Vibraciones",
+			"Control de Vibraciones"
+		],
+		"imagen": "pulso"
+	},
+	{
+		"id": "0b24c9f4-bbc3-49ec-b8e4-4568310b46b4",
+		"nombreReal": "Beatriz Jiménez",
+		"apodo": "LuzEstelar",
+		"descripcion": "Beatriz puede manipular y emitir luz de diferentes intensidades y colores. Utiliza esta habilidad para iluminar lugares oscuros, crear ilusiones ópticas o incluso emitir destellos cegadores para defenderse de adversarios.",
+		"edad": 29,
+		"poderes": [
+			"Manipulación de la Luz",
+			"Emisión de Luz"
+		],
+		"imagen": "luzEstelar"
+	},
+	{
+		"id": "719a2551-b9d5-4828-9749-cc92af263bbc",
+		"nombreReal": "Pedro Sánchez",
+		"apodo": "Giro",
+		"descripcion": "Pedro tiene la habilidad de girar sobre sí mismo a velocidades increíbles, creando tornados o simplemente moviéndose rápidamente de un lugar a otro. A menudo se le ve como un torbellino en movimiento cuando usa su poder al máximo.",
+		"edad": 31,
+		"poderes": [
+			"Giro Rápido",
+			"Creación de Tornados"
+		],
+		"imagen": "giro"
+	},
+	{
+		"id": "f657fcb7-5bcd-4e4e-bf2b-58c2fbd3ae6e",
+		"nombreReal": "Sara López",
+		"apodo": "Geo",
+		"descripcion": "Sara puede manipular la tierra y las rocas a su antojo. Desde levantar muros de piedra hasta causar pequeños terremotos, Geo es una fuerza a tener en cuenta cuando está conectada con el suelo.",
+		"edad": 27,
+		"poderes": [
+			"Manipulación de la Tierra",
+			"Creación de Rocas"
+		],
+		"imagen": "geo"
+	},
+	{
+		"id": "05a99fc5-0d1a-4199-a4a1-7982d0aa6576",
+		"nombreReal": "Lucas Ortega",
+		"apodo": "Vórtex",
+		"historia": "Lucas, un físico teórico, experimentó con la manipulación de la energía y los campos magnéticos. Un accidente en su laboratorio lo transformó en 'Vórtex', con la capacidad de crear y controlar tornados y remolinos a su voluntad.",
+		"edad": 29,
+		"poderes": [
+			"Manipulación del Clima",
+			"Teletransportación"
+		],
+		"imagen": "vortex"
+	},
+	{
+		"id": "f24b4b99-2cf5-4a56-9859-4e3fa15da7e3",
+		"nombreReal": "Diana Ruiz",
+		"apodo": "Psique",
+		"historia": "Diana, una psicóloga talentosa, siempre tuvo una conexión especial con la mente humana. Después de un encuentro cercano con una misteriosa reliquia, descubrió que podía proyectar sus pensamientos y emociones en otros, influenciando sus acciones y sentimientos.",
+		"edad": 32,
+		"poderes": [
+			"Manipulación Mental",
+			"Telepatía"
+		],
+		"imagen": "psique"
+	},
+	{
+		"id": "3144b3de-d183-46aa-99dc-d8b3f3ae07a1",
+		"nombreReal": "Javier Molina",
+		"apodo": "Titán",
+		"historia": "Javier, un arqueólogo, descubrió una antigua armadura durante una expedición. Al ponérsela, se transformó en 'Titán', dotado de una fuerza sobrehumana y resistencia.",
+		"edad": 36,
+		"poderes": [
+			"Super Fuerza",
+			"Resistencia Mejorada"
+		],
+		"imagen": "titan"
+	}
+]

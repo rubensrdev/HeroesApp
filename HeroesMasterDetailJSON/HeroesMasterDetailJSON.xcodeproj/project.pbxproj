@@ -7,18 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		45095C052CDA92B000A3C939 /* HeroesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45095C042CDA92B000A3C939 /* HeroesList.swift */; };
 		45108B862CD94547004E2D7A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45108B802CD94547004E2D7A /* Preview Assets.xcassets */; };
 		45108B872CD94547004E2D7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45108B822CD94547004E2D7A /* Assets.xcassets */; };
 		45108B882CD94547004E2D7A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45108B832CD94547004E2D7A /* ContentView.swift */; };
 		45108B892CD94547004E2D7A /* HeroesMasterDetailJSONApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45108B842CD94547004E2D7A /* HeroesMasterDetailJSONApp.swift */; };
+		45108B8C2CD96EA3004E2D7A /* SuperHeroes.json in Resources */ = {isa = PBXBuildFile; fileRef = 45108B8B2CD96EA3004E2D7A /* SuperHeroes.json */; };
+		45108B8F2CDA2EB3004E2D7A /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45108B8E2CDA2EB3004E2D7A /* Model.swift */; };
+		45108B912CDA3233004E2D7A /* HeroesGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45108B902CDA3233004E2D7A /* HeroesGrid.swift */; };
+		45108B932CDA3FCB004E2D7A /* HeroeDetalle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45108B922CDA3FCB004E2D7A /* HeroeDetalle.swift */; };
+		45108B952CDA3FEC004E2D7A /* PreviewData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45108B942CDA3FEC004E2D7A /* PreviewData.swift */; };
+		45108B9B2CDA45E4004E2D7A /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45108B9A2CDA45E4004E2D7A /* Fonts.swift */; };
+		45108B9D2CDA4766004E2D7A /* Nippo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 45108B9C2CDA4766004E2D7A /* Nippo.ttf */; };
+		45108B9F2CDA48D9004E2D7A /* Makmure.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 45108B9E2CDA48D9004E2D7A /* Makmure.ttf */; };
+		45EF97A52CDA8DAB00919953 /* GridHeroeElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EF97A42CDA8DAA00919953 /* GridHeroeElement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		45095C042CDA92B000A3C939 /* HeroesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroesList.swift; sourceTree = "<group>"; };
 		45108B6F2CD944C2004E2D7A /* HeroesMasterDetailJSON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HeroesMasterDetailJSON.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45108B802CD94547004E2D7A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		45108B822CD94547004E2D7A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45108B832CD94547004E2D7A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		45108B842CD94547004E2D7A /* HeroesMasterDetailJSONApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroesMasterDetailJSONApp.swift; sourceTree = "<group>"; };
+		45108B8B2CD96EA3004E2D7A /* SuperHeroes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = SuperHeroes.json; sourceTree = "<group>"; };
+		45108B8E2CDA2EB3004E2D7A /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		45108B902CDA3233004E2D7A /* HeroesGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroesGrid.swift; sourceTree = "<group>"; };
+		45108B922CDA3FCB004E2D7A /* HeroeDetalle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroeDetalle.swift; sourceTree = "<group>"; };
+		45108B942CDA3FEC004E2D7A /* PreviewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewData.swift; sourceTree = "<group>"; };
+		45108B982CDA45A0004E2D7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		45108B9A2CDA45E4004E2D7A /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
+		45108B9C2CDA4766004E2D7A /* Nippo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Nippo.ttf; sourceTree = "<group>"; };
+		45108B9E2CDA48D9004E2D7A /* Makmure.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Makmure.ttf; sourceTree = "<group>"; };
+		45EF97A42CDA8DAA00919953 /* GridHeroeElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridHeroeElement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				45108B802CD94547004E2D7A /* Preview Assets.xcassets */,
+				45108B942CDA3FEC004E2D7A /* PreviewData.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -59,12 +81,46 @@
 		45108B852CD94547004E2D7A /* HeroesMasterDetailJSON */ = {
 			isa = PBXGroup;
 			children = (
+				45108B982CDA45A0004E2D7A /* Info.plist */,
+				45108B8D2CDA2E9E004E2D7A /* Heroes */,
+				45108B8A2CD96E82004E2D7A /* Resources */,
 				45108B812CD94547004E2D7A /* Preview Content */,
 				45108B822CD94547004E2D7A /* Assets.xcassets */,
+				45108B9C2CDA4766004E2D7A /* Nippo.ttf */,
+				45108B9E2CDA48D9004E2D7A /* Makmure.ttf */,
 				45108B832CD94547004E2D7A /* ContentView.swift */,
 				45108B842CD94547004E2D7A /* HeroesMasterDetailJSONApp.swift */,
 			);
 			path = HeroesMasterDetailJSON;
+			sourceTree = "<group>";
+		};
+		45108B8A2CD96E82004E2D7A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				45108B8B2CD96EA3004E2D7A /* SuperHeroes.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		45108B8D2CDA2E9E004E2D7A /* Heroes */ = {
+			isa = PBXGroup;
+			children = (
+				45108B992CDA45D4004E2D7A /* Styles */,
+				45108B902CDA3233004E2D7A /* HeroesGrid.swift */,
+				45EF97A42CDA8DAA00919953 /* GridHeroeElement.swift */,
+				45108B922CDA3FCB004E2D7A /* HeroeDetalle.swift */,
+				45108B8E2CDA2EB3004E2D7A /* Model.swift */,
+				45095C042CDA92B000A3C939 /* HeroesList.swift */,
+			);
+			path = Heroes;
+			sourceTree = "<group>";
+		};
+		45108B992CDA45D4004E2D7A /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+				45108B9A2CDA45E4004E2D7A /* Fonts.swift */,
+			);
+			path = Styles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,8 +184,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45108B8C2CD96EA3004E2D7A /* SuperHeroes.json in Resources */,
 				45108B862CD94547004E2D7A /* Preview Assets.xcassets in Resources */,
 				45108B872CD94547004E2D7A /* Assets.xcassets in Resources */,
+				45108B9F2CDA48D9004E2D7A /* Makmure.ttf in Resources */,
+				45108B9D2CDA4766004E2D7A /* Nippo.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,8 +199,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45108B9B2CDA45E4004E2D7A /* Fonts.swift in Sources */,
+				45095C052CDA92B000A3C939 /* HeroesList.swift in Sources */,
+				45108B8F2CDA2EB3004E2D7A /* Model.swift in Sources */,
 				45108B882CD94547004E2D7A /* ContentView.swift in Sources */,
+				45108B952CDA3FEC004E2D7A /* PreviewData.swift in Sources */,
+				45EF97A52CDA8DAB00919953 /* GridHeroeElement.swift in Sources */,
+				45108B932CDA3FCB004E2D7A /* HeroeDetalle.swift in Sources */,
 				45108B892CD94547004E2D7A /* HeroesMasterDetailJSONApp.swift in Sources */,
+				45108B912CDA3233004E2D7A /* HeroesGrid.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +344,7 @@
 				DEVELOPMENT_TEAM = 8MU6QHY59H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HeroesMasterDetailJSON/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -307,6 +374,7 @@
 				DEVELOPMENT_TEAM = 8MU6QHY59H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = HeroesMasterDetailJSON/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
